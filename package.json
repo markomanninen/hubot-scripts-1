@@ -19,7 +19,8 @@
     "hubot": ">= 1.1.9",
     "redis": "0.6.7",
     "soupselect": "0.2.0",
-    "xml2js": "0.1.x"
+    "xml2js": "0.1.x",
+    "jsdom": "==0.2.0"
   },
 
   "directories":  {
